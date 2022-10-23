@@ -1,0 +1,60 @@
+body {
+    background-color: #66bfff;
+}
+
+.button {
+    border: none;
+    border-radius: 15px;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: #00C800;
+    color: black;
+    border: 3px solid black;
+    font-weight: normal;
+    font-family: 'Fredoka One';
+    font-size: 35px;
+    width: 200px;
+    height: 75px;
+  }
+  
+  .button1:hover {
+    background-color: #008a00;
+    color: black;
+  }
+  
+.titleImg {
+    display: block;
+    text-align: center;
+    width: 300px;
+    height: 100px;
+    object-fit: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 30px;
+    font-weight: bold;
+}
+
+p {
+    font-family: "Lato";
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.text-center {
+    text-align: center;
+  }
